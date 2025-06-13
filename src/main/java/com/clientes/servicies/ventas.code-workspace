@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/ventas"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/vendedor"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/soporte_ticket"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/reporte"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/productos-api-spring-boot"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/inventario"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/gestion-usuarios-api-spring-boot"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/envios"
+		},
+		{
+			"path": "../../../../../../../Proyecto base Microservicios PERFULANDIA V2 2/clientes-api-spring-boot"
+		},
+		{
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
