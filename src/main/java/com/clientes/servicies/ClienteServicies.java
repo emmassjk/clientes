@@ -28,6 +28,7 @@ public class ClienteServicies {
                 .collect(Collectors.toList());
     }
 
+    // Cambiado a Integer para coincidir con el repositorio
     public Optional<ClienteDTO> obtenerPorId(Integer id) {
         return clienteRepositories.findById(id)
                 .map(this::toDTO);
